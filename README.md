@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @EmirhanPala
+- 👀 I’m interested in small project development
+- 🌱 I’m currently learning ReactJS
+
 <!--
 **EmirhanPala/EmirhanPala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
