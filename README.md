@@ -2,6 +2,13 @@
 - 👀 I’m interested in small project development
 - 🌱 I’m currently learning ReactJS
 
+
+
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EmirhanPala)](#)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=emirhanpala&theme=blue-green">
+
 <!--
 **EmirhanPala/EmirhanPala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
