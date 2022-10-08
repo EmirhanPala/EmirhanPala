@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmirhanPala
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, Kubernetes, Micro Servisler->Api Gateway(Ocelot),ElasticSearch (Loglama),Exception Yönetimi,Core Middleware Exception ve Sentry (Exception loglama),Kodlama Standartları->Yazım teknikleri ve Notasyon,Redis,Apm,DTO->Data Transfer Object,PostgreSQL(Jmeter ve pgbench ile Stres testleri)
 
  ---
  
