@@ -16,7 +16,7 @@
 - **Best Practices:** Coding Standards, Clean Code Techniques, Notation
 
  ---
- -->
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EmirhanPALA&theme=onedark">
@@ -24,8 +24,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirhanpala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,contribs,issues">
 </p>
+ -->
 
----
+I'm a React and C# developer working on database-driven applications in the private sector. I'm a self-taught software developer who has grown through hands-on experience in the workplace.
+
+## Technologies I use
+- React, TypeScript
+- Node.js
+- C#
+- Oracle, PostgreSQL, MySQL, MsSQL
 
 ## 🌐 Connect with Me
 
